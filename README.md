@@ -13,7 +13,7 @@ An interactive pizza builder where you drag and drop ingredients onto a real piz
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-![Forno Folle pizza builder](docs/screenshot.png)
+
 
 </div>
 
